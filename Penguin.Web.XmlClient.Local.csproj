@@ -6,10 +6,10 @@
     <Description>A simple webclient wrapper that serializes and deserializes objects using Penguins XML deserializer. Does not follow all XML specifications for performance reasons. Not well tested</Description>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Penguin.Reflection.Serialization.XML\Penguin.Reflection.Serialization.XML.csproj" />
-    <ProjectReference Include="..\Penguin.Reflection.Extensions\Penguin.Reflection.Extensions.csproj" />
-    <ProjectReference Include="..\Penguin.Extensions.String\Penguin.Extensions.String.csproj" />
-    <ProjectReference Include="..\Penguin.Reflection.Abstractions\Penguin.Reflection.Abstractions.csproj" />
+    <ProjectReference Include="..\Penguin.Reflection.Serialization.XML\Penguin.Reflection.Serialization.XML.Local.csproj" />
+    <ProjectReference Include="..\Penguin.Reflection.Extensions\Penguin.Reflection.Extensions.Local.csproj" />
+    <ProjectReference Include="..\Penguin.Extensions.String\Penguin.Extensions.String.Local.csproj" />
+    <ProjectReference Include="..\Penguin.Reflection.Abstractions\Penguin.Reflection.Abstractions.Local.csproj" />
   </ItemGroup>
   <Import Project="Penguin.Projects.Shared\Penguin.Projects.Shared.csproj" />
 </Project>
