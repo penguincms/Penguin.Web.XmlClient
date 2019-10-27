@@ -6,7 +6,7 @@
     <Description>A simple webclient wrapper that serializes and deserializes objects using Penguins XML deserializer. Does not follow all XML specifications for performance reasons. Not well tested</Description>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Penguin.Reflection.Serialization.XML" Version="1.0.1-63707652289" />
+    <PackageReference Include="Penguin.Reflection.Serialization.XML" Version="1.0.1-T9LXGUJ" />
   </ItemGroup>
   <Import Project="Penguin.Projects.Shared\Penguin.Projects.Shared.csproj" />
 </Project>
