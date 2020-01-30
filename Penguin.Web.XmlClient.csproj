@@ -6,6 +6,7 @@
     <Description>A simple webclient wrapper that serializes and deserializes objects using Penguins XML deserializer. Does not follow all XML specifications for performance reasons. Not well tested</Description>
     <AssemblyName>Penguin.Web.XmlClient</AssemblyName>
     <RootNamespace>Penguin.Web.XmlClient</RootNamespace>
+    <DocumentationFile>Penguin.Web.XmlClient.xml</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Penguin.Reflection.Serialization.XML" Version="1.0.2-T9QC72V" />
