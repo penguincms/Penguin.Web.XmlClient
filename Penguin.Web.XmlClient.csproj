@@ -9,7 +9,7 @@
     <DocumentationFile>Penguin.Web.XmlClient.xml</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Penguin.Reflection.Serialization.XML" Version="5.0.1-T9ZCSSJ" />
+    <PackageReference Include="Penguin.Reflection.Serialization.XML" Version="5.0.1-T9ZTQVZ" />
   </ItemGroup>
   <Import Project="Penguin.Projects.Shared\Penguin.Projects.Shared.csproj" />
 </Project>
