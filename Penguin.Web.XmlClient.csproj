@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <PackageProjectUrl>https://github.com/penguincms/Penguin.Web.XmlClient</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/PenguinCMS/Penguin.Web.XmlClient</PackageProjectUrl>
     <Version>5.0.5</Version>
     <Description>A simple webclient wrapper that serializes and deserializes objects using Penguins XML deserializer. Does not follow all XML specifications for performance reasons. Not well tested</Description>
     <AssemblyName>Penguin.Web.XmlClient</AssemblyName>
@@ -9,7 +9,7 @@
     <DocumentationFile>Penguin.Web.XmlClient.xml</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Penguin.Reflection.Serialization.XML" Version="5.0.2-TAEO1KM" />
+    <PackageReference Include="Penguin.Reflection.Serialization.XML" Version="5.0.6-TAHULSY" />
   </ItemGroup>
   <Import Project="Penguin.Projects.Shared\Penguin.Projects.Shared.csproj" />
 </Project>
