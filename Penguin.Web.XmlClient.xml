@@ -4,7 +4,7 @@
         <name>Penguin.Web.XmlClient</name>
     </assembly>
     <members>
-        <member name="T:Penguin.Web.XmlClient">
+        <member name="T:Penguin.Web.XmlClient.XmlClient">
             <summary>
             WebClient with options to upload/download objects by converting to/from XML, for XML endpoints. Use "UploadXml" and "DownloadXml"
             </summary>
